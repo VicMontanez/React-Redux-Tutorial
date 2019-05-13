@@ -16,6 +16,6 @@ const Todos = ({todos, deleteTodo}) => {
         <div className="todos collection">
           {todoList}
         </div>
-    );
+    )
 };
 export default Todos;
