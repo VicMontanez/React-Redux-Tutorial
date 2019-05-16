@@ -1,1 +1,1 @@
-//Net Ninja's React-Redux Youtube tutorial 
+//Net Ninja's React-Redux Youtube Tutorials 
