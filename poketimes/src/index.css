@@ -9,7 +9,7 @@ body {
 
 .home .post img {
   position: absolute;
-  top: 20px;
+  top: 25px;
   left: -100px;
   opacity: 0.6;
 }
